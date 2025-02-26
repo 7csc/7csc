@@ -19,4 +19,5 @@ jobs:
         with:       
           CREDLY_USER: ${{ secrets.CREDLY_USER }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          CREDLY_SORT: POPULAR
+          CREDLY_SORT: RECENT
+          BADGE_SIZE: 90
