@@ -15,8 +15,9 @@ jobs:
       contents: write
     steps:
       - name: Badges - Readme
-        uses: ShinyaIshitobi/badge-readme@main
+        uses: pemtajo/badge-readme@main
         with:       
           CREDLY_USER: ${{ secrets.CREDLY_USER }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
           BADGE_SIZE: 90
+          CREDLY_SORT: POPULAR
