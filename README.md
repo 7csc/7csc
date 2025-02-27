@@ -10,6 +10,10 @@
 [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=c7csc&theme=monokai)](https://github.com/KATO-Hiro/AtCoderTrophies)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=7csc)](https://github.com/7csc/github-profile-trophy)
 
+<div align="center">
+    <img src="https://github-readme-stats-rouge-two-83.vercel.app/api?username=7csc&rank_icon=github&hide=stars&show_icons=true&show=prs_merged_percentage" alt="7csc GitHub stats">
+</div>
+
 ## Skills
 [![My Programming Language Skills](https://skillicons.dev/icons?i=go,rust,ts,react,nextjs)](https://skillicons.dev)<br>
 [![My Other Skills](https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,azure)](https://skillicons.dev)
