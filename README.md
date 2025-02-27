@@ -3,16 +3,14 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=7csc&count_private=true&show_icons=true&theme=tokyonight" />
 </a>
 -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=7csc&label=Profile%20views&color=0e75b6&style=flat" alt="7csc" /> </p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7csc"/>
 </a>
 
 [![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=c7csc&theme=monokai)](https://github.com/KATO-Hiro/AtCoderTrophies)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=7csc)](https://github.com/7csc/github-profile-trophy)
-
-<div align="center">
-    <img src="https://github-readme-stats-rouge-two-83.vercel.app/api?username=7csc&rank_icon=github&hide=stars&show_icons=true&show=prs_merged_percentage" alt="7csc GitHub stats">
-</div>
 
 ## Skills
 [![My Programming Language Skills](https://skillicons.dev/icons?i=go,rust,ts,react,nextjs)](https://skillicons.dev)<br>
