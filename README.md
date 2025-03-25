@@ -30,5 +30,5 @@
 [![AZ-400: Designing and Implementing Microsoft DevOps Solutions](https://images.credly.com/size/90x90/images/107e2eb6-f394-40eb-83d2-d8c9b7d34555/exam-az400-600x600.png)](http://www.credly.com/badges/8dfcf90c-1e32-4933-b98f-32877404a845 "AZ-400: Designing and Implementing Microsoft DevOps Solutions")
 [![AWS Certified DevOps Engineer – Professional](https://images.credly.com/size/90x90/images/bd31ef42-d460-493e-8503-39592aaf0458/image.png)](http://www.credly.com/badges/acb08828-41d9-4e25-976e-4379e4f02d06 "AWS Certified DevOps Engineer – Professional")
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/90x90/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/247b5eeb-7c83-4199-98d5-85d14beb2828 "Microsoft Certified: DevOps Engineer Expert")
-[![Datadog Certified: Datadog Fundamentals](https://images.credly.com/size/90x90/images/c953c302-f29b-4f29-a449-f070b800fca0/blob)](http://www.credly.com/badges/80323482-445c-4d02-8640-9052f90bbc09 "Datadog Certified: Datadog Fundamentals")
+[![Datadog Certified: Datadog Fundamentals](https://images.credly.com/size/90x90/images/c953c302-f29b-4f29-a449-f070b800fca0/blob)](http://www.credly.com/badges/a35238e2-51d3-481d-9926-1f1c7f2c024c "Datadog Certified: Datadog Fundamentals")
 <!--END_SECTION:badges-->
