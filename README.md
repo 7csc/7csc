@@ -9,7 +9,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7csc"/>
 </a>
 
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=c7csc&theme=monokai)](https://github.com/KATO-Hiro/AtCoderTrophies)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=7csc)](https://github.com/7csc/github-profile-trophy)
 
 ## Skills
