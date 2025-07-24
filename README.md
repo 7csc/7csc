@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=7csc&label=Profile%20views&color=0e75b6&style=flat" alt="7csc" /> </p>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7csc"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7csc&count_private=true"/>
 </a>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=7csc)](https://github.com/7csc/github-profile-trophy)
