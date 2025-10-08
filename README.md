@@ -11,7 +11,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=7csc)](https://github.com/7csc/github-profile-trophy)
 
-## Skills
+## Interest
 [![My Programming Language Skills](https://skillicons.dev/icons?i=go,rust,ts,react,nextjs)](https://skillicons.dev)<br>
 [![My Other Skills](https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,azure)](https://skillicons.dev)
 
