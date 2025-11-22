@@ -16,10 +16,8 @@
 [![My Other Skills](https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,azure)](https://skillicons.dev)
 
 ## 🏃
-[![csc7](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2csc7)](https://atcoder.jp/users/csc7)
-
 [![wakatime](https://wakatime.com/badge/user/706c2abb-d486-4c1c-b712-f62af13e5b56.svg)](https://wakatime.com/@706c2abb-d486-4c1c-b712-f62af13e5b56)
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=csc7)](https://github.com/KATO-Hiro/AtCoderTrophies)
+
 
 
 ## Certificates
