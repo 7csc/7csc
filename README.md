@@ -27,19 +27,23 @@
 package main
 
 type Engineer struct {
-	Name  string
-	Focus []string
-	Code  []string
-	Certs []string
-	Now   string
+	Name     string
+	Work     []string
+	Hobby    []string
+	Learning []string
+	Cloud    []string
+	Certs    []string
+	AtCoder  string
 }
 
 var me = Engineer{
-	Name:  "7csc",
-	Focus: []string{"Cloud Native", "Kubernetes", "IaC"},
-	Code:  []string{"Go", "Rust", "TypeScript"},
-	Certs: []string{"AWS", "Azure", "CKA", "CKAD", "CCNA", "Datadog"},
-	Now:   "Solving AtCoder in Go / Rust / Python",
+	Name:     "7csc",
+	Work:     []string{"Python", "TypeScript"},
+	Hobby:    []string{"Go"},
+	Learning: []string{"Rust", "BigQuery", "Data Engineering"},
+	Cloud:    []string{"AWS", "Azure", "GCP", "Kubernetes"},
+	Certs:    []string{"AWS", "Azure", "CKA", "CKAD", "CCNA", "Datadog"},
+	AtCoder:  "Python",
 }
 ```
 
@@ -52,7 +56,7 @@ var me = Engineer{
 <table align="center">
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Octopus.png" width="24" /><br><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=go,rust,ts,js,py,bash&perline=10" alt="Languages" /></td>
+    <td><img src="https://skillicons.dev/icons?i=py,ts,js,go,bash&perline=10" alt="Languages" /></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spider.png" width="24" /><br><b>Frontend</b></td>
@@ -69,13 +73,21 @@ var me = Engineer{
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" width="24" /><br><b>Cloud / Infra</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,azure,linux,githubactions&perline=10" alt="Infra" /><br>
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux,githubactions&perline=10" alt="Infra" /><br>
       <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
     </td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" width="24" /><br><b>Tools</b></td>
     <td><img src="https://skillicons.dev/icons?i=git,vscode,neovim,raspberrypi&perline=10" alt="Tools" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hatching%20Chick.png" width="24" /><br><b>Learning</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=rust&perline=10" alt="Rust" /><br>
+      <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+      <img src="https://img.shields.io/badge/Data%20Engineering-4b3f8c?style=for-the-badge" alt="Data Engineering" />
+    </td>
   </tr>
 </table>
 
