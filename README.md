@@ -19,79 +19,53 @@
   <a href="https://github.com/7csc?tab=repositories"><img src="https://img.shields.io/github/stars/7csc?label=Stars&style=for-the-badge&logo=github&color=1b3f6b" alt="Stars" /></a>
 </p>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="32" /> About Me</h2>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="24" /> About Me</h3>
 
 ```go
-package main
-
-type Engineer struct {
-	Name     string
-	Work     []string
-	Hobby    []string
-	Learning []string
-	Cloud    []string
-	Certs    []string
-	AtCoder  string
-}
-
 var me = Engineer{
-	Name:     "7csc",
 	Work:     []string{"Python", "TypeScript"},
 	Hobby:    []string{"Go"},
 	Learning: []string{"Rust", "BigQuery", "Data Engineering"},
 	Cloud:    []string{"AWS", "Azure", "GCP", "Kubernetes"},
-	Certs:    []string{"AWS", "Azure", "CKA", "CKAD", "CCNA", "Datadog"},
 	AtCoder:  "Python",
 }
 ```
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Beaver.png" width="32" /> Tech Stack</h2>
-
 <table align="center">
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Octopus.png" width="24" /><br><b>Languages</b></td>
-    <td><img src="https://skillicons.dev/icons?i=py,ts,js,go,bash&perline=10" alt="Languages" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spider.png" width="24" /><br><b>Frontend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&perline=10" alt="Frontend" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Turtle.png" width="24" /><br><b>Backend</b></td>
+    <td align="center"><b>Code</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=postgres,cloudflare&perline=10" alt="Backend" /><br>
-      <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logoColor=white" alt="gRPC" />
-      <img src="https://img.shields.io/badge/Wails-DF0000?style=for-the-badge&logo=wails&logoColor=white" alt="Wails" />
+      <img src="https://skillicons.dev/icons?i=py,ts,js,go,bash" height="36" alt="Languages" />
+      &nbsp;<sub>learning →</sub>
+      <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" alt="Rust" />
+      <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" alt="BigQuery" />
+      <img src="https://img.shields.io/badge/Data%20Engineering-4b3f8c?style=flat-square" alt="Data Engineering" />
     </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" width="24" /><br><b>Cloud / Infra</b></td>
+    <td align="center"><b>Web</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,linux,githubactions&perline=10" alt="Infra" /><br>
-      <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,postgres,cloudflare" height="36" alt="Web" />
+      <img src="https://img.shields.io/badge/gRPC-244C5A?style=flat-square" alt="gRPC" />
+      <img src="https://img.shields.io/badge/Wails-DF0000?style=flat-square&logo=wails&logoColor=white" alt="Wails" />
     </td>
   </tr>
   <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" width="24" /><br><b>Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,vscode,neovim,raspberrypi&perline=10" alt="Tools" /></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Hatching%20Chick.png" width="24" /><br><b>Learning</b></td>
+    <td align="center"><b>Cloud</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=rust&perline=10" alt="Rust" /><br>
-      <img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlebigquery&logoColor=white" alt="BigQuery" />
-      <img src="https://img.shields.io/badge/Data%20Engineering-4b3f8c?style=for-the-badge" alt="Data Engineering" />
+      <img src="https://skillicons.dev/icons?i=aws,azure,gcp,kubernetes,docker,terraform,githubactions,linux" height="36" alt="Cloud" />
+      <img src="https://img.shields.io/badge/Datadog-632CA6?style=flat-square&logo=datadog&logoColor=white" alt="Datadog" />
     </td>
   </tr>
 </table>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="32" /> Almanac</h2>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="24" /> Almanac</h3>
 
 <p align="center">
   <img alt="Contribution almanac rendered daily from the GitHub API" src="./assets/almanac.svg" width="100%" />
 </p>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eagle.png" width="32" /> Certificates</h2>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eagle.png" width="24" /> Certificates</h3>
 
 <div align="center">
 

@@ -222,7 +222,7 @@ BLINK = [
 
 
 def landscape(data, now):
-    rows, horizon = 18, 12
+    rows, horizon = 14, 10
     rnd = random.Random(7)
     styles, body = list(BLINK), []
 
@@ -230,7 +230,7 @@ def landscape(data, now):
         color = mix(SKY_TOP, SKY_BOTTOM, y / horizon) if y <= horizon else SEA[y - horizon - 1]
         body.extend(rect(x, y, color) for x in range(COLS))
 
-    for i, (x, y) in enumerate([(24, 0), (27, 3), (31, 1), (35, 4), (38, 0), (41, 2), (51, 4), (1, 7), (20, 6), (52, 1)]):
+    for i, (x, y) in enumerate([(24, 0), (27, 3), (31, 1), (35, 4), (38, 0), (41, 2), (51, 4), (1, 6), (20, 6), (52, 1)]):
         body.append(rect(x, y, STAR, "s", i * 330))
 
     # the real moon phase: waxing lights the right side, waning the left
@@ -247,7 +247,7 @@ def landscape(data, now):
 
     # far mountains drift slowly behind the town
     period = 64
-    h = ridge(period, [(8, 7), (24, 5), (38, 8), (53, 6)])
+    h = ridge(period, [(8, 6), (24, 4), (38, 7), (53, 5)])
     cells = {}
     for x in range(period):
         for k2 in range(h[x]):
@@ -261,7 +261,7 @@ def landscape(data, now):
     ranked = sorted(totals)
     for x, (week, total) in enumerate(zip(data["weeks"], totals)):
         pct = ranked.index(total) / max(1, len(ranked) - 1)
-        height = 0 if not total else 2 + round(5 * pct)
+        height = 0 if not total else 2 + round(4 * pct)
         levels = sorted((d[3] for d in week), reverse=True)
         for k2 in range(height):
             lv = levels[k2] if k2 < len(levels) else 0
@@ -288,7 +288,7 @@ def landscape(data, now):
         spread = (y - horizon) // 2
         for x in range(mx - 1 - spread, mx + 2 + spread):
             if rnd.random() < 0.25 + 0.45 * fullness:
-                color = MOON if y < horizon + 3 else mix(MOON, SEA[0], 0.4)
+                color = MOON if y < horizon + 2 else mix(MOON, SEA[0], 0.4)
                 body.append(rect(x, y, color, "r", rnd.randint(0, 1800)))
 
     x0 = 3
