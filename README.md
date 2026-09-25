@@ -86,5 +86,3 @@ var me = Engineer{
 <!--END_SECTION:badges-->
 
 </div>
-
-<img alt="A boat sailing across the sea" src="./assets/footer.svg" width="100%" />

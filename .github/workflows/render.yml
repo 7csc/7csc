@@ -7,7 +7,7 @@ on:
 
 jobs:
   render:
-    name: Render landscape, almanac and footer
+    name: Render landscape and almanac
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:

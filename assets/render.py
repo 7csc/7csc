@@ -3,7 +3,6 @@
 - landscape.svg: a night seaside town whose skyline is the last 53 weeks of contributions
   (one building per week, one lit floor per active day) under the real current moon phase.
 - almanac.svg: pixel-digit stats and the contribution calendar in the same palette.
-- footer.svg: the sea, with a boat sailing across.
 
 Data comes from the GitHub GraphQL API using GITHUB_TOKEN (or GH_TOKEN).
 Without a token a deterministic fake year is used so the art still renders.
@@ -369,34 +368,11 @@ def almanac(data, now):
     return svg(W, ly + PAD, styles, body, 0)
 
 
-def footer():
-    rows = 5
-    rnd = random.Random(3)
-    styles, body = [], []
-    for y in range(rows):
-        color = mix(SKY_BOTTOM, SKY_TOP, 0.6) if y < 2 else SEA[y - 2]
-        body.extend(rect(x, y, color) for x in range(COLS))
-    cells = {(x, y): (rnd.choice(WAVE), "") for x in range(30) for y in range(2, rows) if rnd.random() < 0.12}
-    anim, g = scrolling("wv", 30, cells, 160, rnd)
-    styles.append(anim)
-    body.append(g)
-
-    boat = {(2, 0): STAR, (1, 1): STAR, (2, 1): STAR, (0, 2): NEON, (1, 2): NEON, (2, 2): NEON, (3, 2): NEON, (4, 2): NEON}
-    travel = COLS + 6
-    styles.append(
-        f"@keyframes bt{{from{{transform:translateX(-{6 * PITCH}px)}}to{{transform:translateX({COLS * PITCH}px)}}}}"
-        f".bt{{animation:bt {travel * 450}ms steps({travel}) infinite}}"
-    )
-    body.append(f'<g clip-path="url(#v)"><g class="bt">{"".join(rect(x, y, c) for (x, y), c in boat.items())}</g></g>')
-    return svg(W, PAD * 2 + rows * PITCH - GAP, styles, body, rows * PITCH - GAP)
-
-
 def main():
     now = dt.datetime.now(dt.timezone.utc)
     data = fetch()
     (OUT / "landscape.svg").write_text(landscape(data, now), encoding="utf-8")
     (OUT / "almanac.svg").write_text(almanac(data, now), encoding="utf-8")
-    (OUT / "footer.svg").write_text(footer(), encoding="utf-8")
 
 
 if __name__ == "__main__":
