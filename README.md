@@ -4,13 +4,12 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+7csc+%F0%9F%91%8B;Go+%2F+Rust+%2F+TypeScript;Cloud+Native+%C3%97+Kubernetes;AWS+%2F+Azure+%2F+Terraform" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=When+you+want+something%2C+all+the+universe+conspires+in+helping+you+to+achieve+it.;It%27s+the+possibility+of+having+a+dream+come+true+that+makes+life+interesting.;The+secret+of+life+is+to+fall+seven+times+and+to+get+up+eight+times.;The+fear+of+suffering+is+worse+than+the+suffering+itself.;%E2%80%94+Paulo+Coelho%2C+The+Alchemist" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=7csc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://wakatime.com/@706c2abb-d486-4c1c-b712-f62af13e5b56"><img src="https://wakatime.com/badge/user/706c2abb-d486-4c1c-b712-f62af13e5b56.svg" alt="wakatime" /></a>
   <a href="https://github.com/7csc?tab=followers"><img src="https://img.shields.io/github/followers/7csc?label=Followers&style=flat&logo=github&color=181717" alt="Followers" /></a>
 </p>
 
