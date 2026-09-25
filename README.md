@@ -4,7 +4,10 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1200&color=FFD76A&center=true&vCenter=true&width=900&lines=When+you+want+something%2C+all+the+universe+conspires+in+helping+you+to+achieve+it.;It%27s+the+possibility+of+having+a+dream+come+true+that+makes+life+interesting.;The+secret+of+life+is+to+fall+seven+times+and+to+get+up+eight+times.;The+fear+of+suffering+is+worse+than+the+suffering+itself.;%E2%80%94+Paulo+Coelho%2C+The+Alchemist" alt="Typing SVG" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1200&color=FFD76A&center=true&vCenter=true&width=900&lines=When+you+want+something%2C+all+the+universe+conspires+in+helping+you+to+achieve+it.;It%27s+the+possibility+of+having+a+dream+come+true+that+makes+life+interesting.;The+secret+of+life+is+to+fall+seven+times+and+to+get+up+eight+times.;The+fear+of+suffering+is+worse+than+the+suffering+itself.;%E2%80%94+Paulo+Coelho%2C+The+Alchemist" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1200&color=C2185B&center=true&vCenter=true&width=900&lines=When+you+want+something%2C+all+the+universe+conspires+in+helping+you+to+achieve+it.;It%27s+the+possibility+of+having+a+dream+come+true+that+makes+life+interesting.;The+secret+of+life+is+to+fall+seven+times+and+to+get+up+eight+times.;The+fear+of+suffering+is+worse+than+the+suffering+itself.;%E2%80%94+Paulo+Coelho%2C+The+Alchemist" alt="Typing SVG" />
+    </picture>
   </a>
 </p>
 
@@ -15,13 +18,6 @@
 </p>
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="32" /> About Me</h2>
-
-<table align="center">
-<tr>
-<td align="center" width="200">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="140" alt="fox" />
-</td>
-<td>
 
 ```go
 package main
@@ -46,10 +42,6 @@ var me = Engineer{
 	AtCoder:  "Python",
 }
 ```
-
-</td>
-</tr>
-</table>
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Beaver.png" width="32" /> Tech Stack</h2>
 
@@ -95,16 +87,25 @@ var me = Engineer{
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="170" src="https://github-stats-extended.vercel.app/api?username=7csc&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=ff5fa2&icon_color=ffd76a&text_color=c9d1d9&ring_color=ff5fa2&hide_border=true" alt="GitHub Stats" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=7csc&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=ff5fa2&icon_color=ffd76a&text_color=c9d1d9&ring_color=ff5fa2&hide_border=true" />
+      <img height="170" src="https://github-stats-extended.vercel.app/api?username=7csc&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&bg_color=ffffff&title_color=c2185b&icon_color=4b3f8c&text_color=24292f&ring_color=c2185b&hide_border=true" alt="GitHub Stats" />
+    </picture>
   </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=7csc&count_private=true&layout=compact&bg_color=0d1117&title_color=ff5fa2&text_color=c9d1d9&hide_border=true" alt="Top Langs" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=7csc&count_private=true&layout=compact&bg_color=0d1117&title_color=ff5fa2&text_color=c9d1d9&hide_border=true" />
+      <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=7csc&count_private=true&layout=compact&bg_color=ffffff&title_color=c2185b&text_color=24292f&hide_border=true" alt="Top Langs" />
+    </picture>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://streak-stats.demolab.com?user=7csc&background=0d1117&ring=ff5fa2&fire=ffd76a&currStreakNum=ffffff&currStreakLabel=ff5fa2&sideNums=ffffff&sideLabels=a39be0&dates=8b949e&stroke=30363d&hide_border=true" alt="GitHub Streak" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=7csc&background=0d1117&ring=ff5fa2&fire=ffd76a&currStreakNum=ffffff&currStreakLabel=ff5fa2&sideNums=ffffff&sideLabels=a39be0&dates=8b949e&stroke=30363d&hide_border=true" />
+      <img src="https://streak-stats.demolab.com?user=7csc&background=ffffff&ring=c2185b&fire=e0a800&currStreakNum=24292f&currStreakLabel=c2185b&sideNums=24292f&sideLabels=4b3f8c&dates=57606a&stroke=d0d7de&hide_border=true" alt="GitHub Streak" />
+    </picture>
   </a>
 </p>
 
