@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="7csc" src="https://typograssy.kawarimidoll.deno.net/api?text=7csc%20&scheme=dark&frame=none&comment=" />
+  <img alt="7csc" src="https://typograssy.kawarimidoll.deno.net/api?text=7csc%20%5C%28%5Eo%5E%29%2F%20%3C%E3%82%B3%3A%E3%83%9F%20%28%3D%5E.%5E%3D%29%20%E3%83%8E%28%5E_%5E%29%E3%83%8E%20m%28_%20_%29m%20&scheme=dark&frame=none&comment=" />
 </h1>
 
 <p align="center">
