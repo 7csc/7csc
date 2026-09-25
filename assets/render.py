@@ -14,6 +14,7 @@ import json
 import math
 import os
 import random
+import urllib.error
 import urllib.request
 from pathlib import Path
 
@@ -83,16 +84,28 @@ query($login: String!) {
 # ---------------------------------------------------------------- data
 
 
-def fetch():
-    token = os.environ.get("GITHUB_TOKEN") or os.environ.get("GH_TOKEN")
-    if not token:
-        return fake_data()
+def query(token):
     req = urllib.request.Request(
         "https://api.github.com/graphql",
         data=json.dumps({"query": QUERY, "variables": {"login": USER}}).encode(),
         headers={"Authorization": f"bearer {token}", "Content-Type": "application/json"},
     )
-    user = json.load(urllib.request.urlopen(req))["data"]["user"]
+    return json.load(urllib.request.urlopen(req))["data"]["user"]
+
+
+def fetch():
+    # GH_TOKEN (a PAT) also sees private contributions; fall back to the Actions token if it is missing or expired
+    tokens = [t for t in (os.environ.get("GH_TOKEN"), os.environ.get("GITHUB_TOKEN")) if t]
+    if not tokens:
+        return fake_data()
+    for i, token in enumerate(tokens):
+        try:
+            user = query(token)
+            break
+        except urllib.error.HTTPError as e:
+            if e.code != 401 or i == len(tokens) - 1:
+                raise
+            print("token rejected (401), trying the next one")
     cal = user["contributionsCollection"]["contributionCalendar"]
     return {
         "weeks": [

@@ -18,7 +18,8 @@ jobs:
       - name: Render SVGs from GitHub data
         run: python3 assets/render.py
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN || github.token }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: ${{ github.token }}
 
       - name: Commit if changed
         run: |
