@@ -4,62 +4,115 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=When+you+want+something%2C+all+the+universe+conspires+in+helping+you+to+achieve+it.;It%27s+the+possibility+of+having+a+dream+come+true+that+makes+life+interesting.;The+secret+of+life+is+to+fall+seven+times+and+to+get+up+eight+times.;The+fear+of+suffering+is+worse+than+the+suffering+itself.;%E2%80%94+Paulo+Coelho%2C+The+Alchemist" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1200&color=FFD76A&center=true&vCenter=true&width=900&lines=When+you+want+something%2C+all+the+universe+conspires+in+helping+you+to+achieve+it.;It%27s+the+possibility+of+having+a+dream+come+true+that+makes+life+interesting.;The+secret+of+life+is+to+fall+seven+times+and+to+get+up+eight+times.;The+fear+of+suffering+is+worse+than+the+suffering+itself.;%E2%80%94+Paulo+Coelho%2C+The+Alchemist" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=7csc&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-  <a href="https://github.com/7csc?tab=followers"><img src="https://img.shields.io/github/followers/7csc?label=Followers&style=flat&logo=github&color=181717" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=7csc&label=Profile%20Views&color=ff5fa2&style=for-the-badge" alt="Profile views" />
+  <a href="https://github.com/7csc?tab=followers"><img src="https://img.shields.io/github/followers/7csc?label=Followers&style=for-the-badge&logo=github&color=4b3f8c" alt="Followers" /></a>
+  <a href="https://github.com/7csc?tab=repositories"><img src="https://img.shields.io/github/stars/7csc?label=Stars&style=for-the-badge&logo=github&color=1b3f6b" alt="Stars" /></a>
 </p>
 
----
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="32" /> About Me</h2>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="32" /> About Me
+<table align="center">
+<tr>
+<td align="center" width="200">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="140" alt="fox" />
+</td>
+<td>
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" width="20" /> Cloud / Infrastructure — Kubernetes, Terraform, AWS, Azure
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Octopus.png" width="20" /> Backend & tools — Go, Rust, gRPC
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spider.png" width="20" /> Web — Next.js, React, Cloudflare Workers
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" width="20" /> Competitive programming on AtCoder (Go / Rust / Python)
+```go
+package main
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Beaver.png" width="32" /> Tech Stack
+type Engineer struct {
+	Name  string
+	Focus []string
+	Code  []string
+	Certs []string
+	Now   string
+}
 
-**Languages**<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,rust,ts,js,py,bash&perline=10" alt="Languages" /></a>
+var me = Engineer{
+	Name:  "7csc",
+	Focus: []string{"Cloud Native", "Kubernetes", "IaC"},
+	Code:  []string{"Go", "Rust", "TypeScript"},
+	Certs: []string{"AWS", "Azure", "CKA", "CKAD", "CCNA", "Datadog"},
+	Now:   "Solving AtCoder in Go / Rust / Python",
+}
+```
 
-**Frontend**<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&perline=10" alt="Frontend" /></a>
+</td>
+</tr>
+</table>
 
-**Backend / Data**<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postgres,cloudflare&perline=10" alt="Backend" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grpc/grpc-plain.svg" height="48" alt="gRPC" />
-&nbsp;<img src="https://img.shields.io/badge/Wails-DF0000?style=for-the-badge&logo=wails&logoColor=white" alt="Wails" />
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Beaver.png" width="32" /> Tech Stack</h2>
 
-**Cloud / Infra / Ops**<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,azure,linux,githubactions&perline=10" alt="Infra" /></a>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/datadog/datadog-original.svg" height="48" alt="Datadog" />
+<table align="center">
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Octopus.png" width="24" /><br><b>Languages</b></td>
+    <td><img src="https://skillicons.dev/icons?i=go,rust,ts,js,py,bash&perline=10" alt="Languages" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spider.png" width="24" /><br><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,threejs,html,css&perline=10" alt="Frontend" /></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Turtle.png" width="24" /><br><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,cloudflare&perline=10" alt="Backend" /><br>
+      <img src="https://img.shields.io/badge/gRPC-244C5A?style=for-the-badge&logoColor=white" alt="gRPC" />
+      <img src="https://img.shields.io/badge/Wails-DF0000?style=for-the-badge&logo=wails&logoColor=white" alt="Wails" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" width="24" /><br><b>Cloud / Infra</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,aws,azure,linux,githubactions&perline=10" alt="Infra" /><br>
+      <img src="https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white" alt="Datadog" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" width="24" /><br><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,vscode,neovim,raspberrypi&perline=10" alt="Tools" /></td>
+  </tr>
+</table>
 
-**Tools**<br>
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vscode,neovim,raspberrypi&perline=10" alt="Tools" /></a>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="32" /> Stats
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="32" /> Stats</h2>
 
 <p align="center">
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="180" src="https://github-stats-extended.vercel.app/api?username=7csc&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api?username=7csc&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=ff5fa2&icon_color=ffd76a&text_color=c9d1d9&ring_color=ff5fa2&hide_border=true" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
-    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=7csc&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+    <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=7csc&count_private=true&layout=compact&bg_color=0d1117&title_color=ff5fa2&text_color=c9d1d9&hide_border=true" alt="Top Langs" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://streak-stats.demolab.com?user=7csc&background=0d1117&ring=ff5fa2&fire=ffd76a&currStreakNum=ffffff&currStreakLabel=ff5fa2&sideNums=ffffff&sideLabels=a39be0&dates=8b949e&stroke=30363d&hide_border=true" alt="GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/7csc/github-profile-trophy">
-    <img src="https://trophy.ryglcloud.net/?username=7csc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="trophy" />
+    <img src="https://trophy.ryglcloud.net/?username=7csc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="trophy" />
   </a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eagle.png" width="32" /> Certificates
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7csc/7csc/output/github-snake-dark.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/7csc/7csc/output/github-snake.svg" />
+  </picture>
+</p>
+
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eagle.png" width="32" /> Certificates</h2>
+
+<div align="center">
+
 <!--START_SECTION:badges-->
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/90x90/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/131bbad9-1e1d-4224-aee3-570e033ecebb "Microsoft Certified: Azure Fundamentals")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/90x90/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/9f087053-953c-4200-b99a-87bd89f5f9b9 "AWS Certified Solutions Architect – Associate")
@@ -75,3 +128,7 @@
 [![Microsoft Certified: DevOps Engineer Expert](https://images.credly.com/size/90x90/images/c3ab66f8-5d59-4afa-a6c2-0ba30a1989ca/CERT-Expert-DevOps-Engineer-600x600.png)](http://www.credly.com/badges/247b5eeb-7c83-4199-98d5-85d14beb2828 "Microsoft Certified: DevOps Engineer Expert")
 [![Datadog Certified: Datadog Fundamentals](https://images.credly.com/size/90x90/images/c953c302-f29b-4f29-a449-f070b800fca0/blob)](http://www.credly.com/badges/a35238e2-51d3-481d-9926-1f1c7f2c024c "Datadog Certified: Datadog Fundamentals")
 <!--END_SECTION:badges-->
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1030,100:9a4a78&height=120&section=footer" width="100%" alt="footer" />
