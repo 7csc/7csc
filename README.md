@@ -55,8 +55,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" /> GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=7csc&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=7csc&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   </a>
 </p>
 
