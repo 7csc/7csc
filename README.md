@@ -16,14 +16,14 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="32" /> About Me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="32" /> About Me
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="20" /> Cloud / Infrastructure — Kubernetes, Terraform, AWS, Azure
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="20" /> Backend & tools — Go, Rust, gRPC
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="20" /> Web — Next.js, React, Cloudflare Workers
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="20" /> Competitive programming on AtCoder (Go / Rust / Python)
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spouting%20Whale.png" width="20" /> Cloud / Infrastructure — Kubernetes, Terraform, AWS, Azure
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Octopus.png" width="20" /> Backend & tools — Go, Rust, gRPC
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Spider.png" width="20" /> Web — Next.js, React, Cloudflare Workers
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Owl.png" width="20" /> Competitive programming on AtCoder (Go / Rust / Python)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="32" /> Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Beaver.png" width="32" /> Tech Stack
 
 **Languages**<br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=go,rust,ts,js,py,bash&perline=10" alt="Languages" /></a>
@@ -43,18 +43,12 @@
 **Tools**<br>
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,vscode,neovim,raspberrypi&perline=10" alt="Tools" /></a>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="32" /> Featured Projects
-
-| Project | Description | Stack |
-| :-- | :-- | :-- |
-| [**nendo**](https://github.com/7csc/nendo) | Container Runtime for Education and Learning | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-| [**k8s-launch-pad**](https://github.com/7csc/k8s-launch-pad) | Terraform template for launching a Kubernetes cluster on AWS at low cost | ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white) |
-| [**utg-plus-two**](https://github.com/7csc/utg-plus-two) | Calculation tool for poker players (stacks & all-in win probabilities) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Wails](https://img.shields.io/badge/Wails-DF0000?style=flat-square&logo=wails&logoColor=white) |
-| [**domain-checker**](https://github.com/7csc/domain-checker) | CLI tool to check the status of specified domains | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) |
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="32" /> GitHub Stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="32" /> Stats
 
 <p align="center">
+  <a href="https://github.com/stats-organization/github-stats-extended">
+    <img height="180" src="https://github-stats-extended.vercel.app/api?username=7csc&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  </a>
   <a href="https://github.com/stats-organization/github-stats-extended">
     <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=7csc&count_private=true&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
   </a>
@@ -66,7 +60,7 @@
   </a>
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sports%20Medal.png" width="32" /> Certificates
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eagle.png" width="32" /> Certificates
 <!--START_SECTION:badges-->
 [![Microsoft Certified: Azure Fundamentals](https://images.credly.com/size/90x90/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png)](http://www.credly.com/badges/131bbad9-1e1d-4224-aee3-570e033ecebb "Microsoft Certified: Azure Fundamentals")
 [![AWS Certified Solutions Architect – Associate](https://images.credly.com/size/90x90/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png)](http://www.credly.com/badges/9f087053-953c-4200-b99a-87bd89f5f9b9 "AWS Certified Solutions Architect – Associate")
