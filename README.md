@@ -1,5 +1,7 @@
 <p align="center">
-  <img alt="landscape" src="./assets/landscape.svg" width="100%" />
+  <img alt="A pixel town whose skyline is my last 53 weeks of contributions" src="./assets/landscape.svg" width="100%" />
+  <br>
+  <sub>🏙️ the skyline is my last 53 weeks of commits · 🌙 tonight's real moon phase · 🔴 this week's rooftop</sub>
 </p>
 
 <p align="center">
@@ -83,43 +85,10 @@ var me = Engineer{
   </tr>
 </table>
 
-<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="32" /> Stats</h2>
+<h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="32" /> Almanac</h2>
 
 <p align="center">
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=7csc&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&bg_color=0d1117&title_color=ff5fa2&icon_color=ffd76a&text_color=c9d1d9&ring_color=ff5fa2&hide_border=true" />
-      <img height="170" src="https://github-stats-extended.vercel.app/api?username=7csc&count_private=true&include_all_commits=true&show_icons=true&rank_icon=github&bg_color=ffffff&title_color=c2185b&icon_color=4b3f8c&text_color=24292f&ring_color=c2185b&hide_border=true" alt="GitHub Stats" />
-    </picture>
-  </a>
-  <a href="https://github.com/stats-organization/github-stats-extended">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=7csc&count_private=true&layout=compact&bg_color=0d1117&title_color=ff5fa2&text_color=c9d1d9&hide_border=true" />
-      <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=7csc&count_private=true&layout=compact&bg_color=ffffff&title_color=c2185b&text_color=24292f&hide_border=true" alt="Top Langs" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=7csc&background=0d1117&ring=ff5fa2&fire=ffd76a&currStreakNum=ffffff&currStreakLabel=ff5fa2&sideNums=ffffff&sideLabels=a39be0&dates=8b949e&stroke=30363d&hide_border=true" />
-      <img src="https://streak-stats.demolab.com?user=7csc&background=ffffff&ring=c2185b&fire=e0a800&currStreakNum=24292f&currStreakLabel=c2185b&sideNums=24292f&sideLabels=4b3f8c&dates=57606a&stroke=d0d7de&hide_border=true" alt="GitHub Streak" />
-    </picture>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/7csc/github-profile-trophy">
-    <img src="https://trophy.ryglcloud.net/?username=7csc&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4" alt="trophy" />
-  </a>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/7csc/7csc/output/github-snake-dark.svg" />
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/7csc/7csc/output/github-snake.svg" />
-  </picture>
+  <img alt="Contribution almanac rendered daily from the GitHub API" src="./assets/almanac.svg" width="100%" />
 </p>
 
 <h2 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Eagle.png" width="32" /> Certificates</h2>
@@ -144,4 +113,4 @@ var me = Engineer{
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0c1030,100:9a4a78&height=120&section=footer" width="100%" alt="footer" />
+<img alt="A boat sailing across the sea" src="./assets/footer.svg" width="100%" />
