@@ -59,6 +59,12 @@ var me = Engineer{
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://github.com/7csc/github-readme-3d-canvas">
+    <img alt="Planets orbiting a sun, rendered with three.js" src="./dist/planets-dark.gif" width="100%" />
+  </a>
+</p>
+
 <h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" width="24" /> Almanac</h3>
 
 <p align="center">

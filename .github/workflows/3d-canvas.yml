@@ -1,0 +1,24 @@
+name: 3D canvas
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "planets.json"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: 3d-canvas
+  cancel-in-progress: true
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: 7csc/github-readme-3d-canvas@v1
+        with:
+          config: planets.json
