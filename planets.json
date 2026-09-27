@@ -5,17 +5,60 @@
   "orbits": {
     "elevation": 22,
     "sunColor": "#ffd76a",
-    "sunRadius": 0.7,
+    "sunRadius": 1.0,
     "planets": [
-      { "color": "#ff5fa2", "texture": "rocky", "radius": 0.16, "distance": 1.7, "orbits": 4, "eccentricity": 0.15 },
-      { "color": "#5aa0e0", "texture": "ocean", "radius": 0.24, "distance": 2.8, "orbits": 3,
-        "moon": { "color": "#e6edf3", "radius": 0.06, "distance": 0.42, "orbits": 9 } },
-      { "color": "#9a4a78", "texture": "rocky", "radius": 0.2, "distance": 3.9, "orbits": 2, "eccentricity": 0.2, "inclination": 6 },
-      { "color": "#4b3f8c", "texture": "gas", "radius": 0.42, "distance": 5.4, "orbits": 1, "ring": true, "ringColor": "#a39be0", "tilt": 24 }
+      {
+        "color": "#ff5fa2",
+        "texture": "rocky",
+        "radius": 0.28,
+        "distance": 1.7,
+        "orbits": 4,
+        "eccentricity": 0.15
+      },
+      {
+        "color": "#5aa0e0",
+        "texture": "ocean",
+        "radius": 0.4,
+        "distance": 2.8,
+        "orbits": 3,
+        "moon": {
+          "color": "#e6edf3",
+          "radius": 0.09,
+          "distance": 0.65,
+          "orbits": 9
+        }
+      },
+      {
+        "color": "#9a4a78",
+        "texture": "rocky",
+        "radius": 0.34,
+        "distance": 3.9,
+        "orbits": 2,
+        "eccentricity": 0.2,
+        "inclination": 6
+      },
+      {
+        "color": "#4b3f8c",
+        "texture": "gas",
+        "radius": 0.66,
+        "distance": 5.4,
+        "orbits": 1,
+        "ring": true,
+        "ringColor": "#a39be0",
+        "tilt": 24
+      }
     ]
   },
   "themes": {
-    "dark": { "background": "#0d1117", "orbitColor": "#a39be0", "orbitOpacity": 0.25 },
-    "light": null
+    "dark": {
+      "background": "#0d1117",
+      "orbitColor": "#a39be0",
+      "orbitOpacity": 0.25
+    },
+    "light": {
+      "background": "#ffffff",
+      "orbitColor": "#4b3f8c",
+      "orbitOpacity": 0.3
+    }
   }
 }

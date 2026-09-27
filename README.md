@@ -61,7 +61,10 @@ var me = Engineer{
 
 <p align="center">
   <a href="https://github.com/7csc/github-readme-3d-canvas">
-    <img alt="Planets orbiting a sun, rendered with three.js" src="./dist/planets-dark.gif" width="100%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./dist/planets-dark.gif" />
+      <img alt="Planets orbiting a sun, rendered with three.js" src="./dist/planets-light.gif" width="100%" />
+    </picture>
   </a>
 </p>
 
