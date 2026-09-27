@@ -5,43 +5,43 @@
   "orbits": {
     "elevation": 22,
     "sunColor": "#ffd76a",
-    "sunRadius": 1.0,
+    "sunRadius": 1.1,
     "planets": [
       {
         "color": "#ff5fa2",
         "texture": "rocky",
-        "radius": 0.28,
-        "distance": 1.7,
+        "radius": 0.34,
+        "distance": 1.85,
         "orbits": 4,
-        "eccentricity": 0.15
+        "eccentricity": 0.1
       },
       {
         "color": "#5aa0e0",
         "texture": "ocean",
-        "radius": 0.4,
-        "distance": 2.8,
+        "radius": 0.48,
+        "distance": 2.75,
         "orbits": 3,
         "moon": {
           "color": "#e6edf3",
-          "radius": 0.09,
-          "distance": 0.65,
+          "radius": 0.1,
+          "distance": 0.72,
           "orbits": 9
         }
       },
       {
         "color": "#9a4a78",
         "texture": "rocky",
-        "radius": 0.34,
-        "distance": 3.9,
+        "radius": 0.4,
+        "distance": 3.6,
         "orbits": 2,
-        "eccentricity": 0.2,
+        "eccentricity": 0.12,
         "inclination": 6
       },
       {
         "color": "#4b3f8c",
         "texture": "gas",
-        "radius": 0.66,
-        "distance": 5.4,
+        "radius": 0.75,
+        "distance": 4.6,
         "orbits": 1,
         "ring": true,
         "ringColor": "#a39be0",
