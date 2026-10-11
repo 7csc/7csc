@@ -2,8 +2,6 @@ name: Render Artwork
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "0 15 * * *" # 00:00 JST
 
 jobs:
   render:
