@@ -1,11 +1,13 @@
-name: Render Artwork
+name: Render Almanac
 
 on:
   workflow_dispatch:
+  schedule:
+    - cron: "0 15 * * *" # 00:00 JST
 
 jobs:
   render:
-    name: Render landscape and almanac
+    name: Render almanac
     runs-on: ubuntu-latest
     timeout-minutes: 10
     permissions:
@@ -24,5 +26,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add assets/*.svg
-          git diff --cached --quiet || git commit -m "chore: re-render profile artwork"
+          git diff --cached --quiet || git commit -m "chore: re-render profile almanac"
           git push

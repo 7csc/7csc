@@ -1,10 +1,4 @@
 <p align="center">
-  <img alt="A pixel town whose skyline is my last 53 weeks of contributions" src="./assets/landscape.svg" width="100%" />
-  <br>
-  <sub>🏙️ the skyline is my last 53 weeks of commits · 🌙 tonight's real moon phase · 🔴 this week's rooftop</sub>
-</p>
-
-<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1200&color=FFD76A&center=true&vCenter=true&width=900&lines=When+you+want+something%2C+all+the+universe+conspires+in+helping+you+to+achieve+it.;It%27s+the+possibility+of+having+a+dream+come+true+that+makes+life+interesting.;The+secret+of+life+is+to+fall+seven+times+and+to+get+up+eight+times.;The+fear+of+suffering+is+worse+than+the+suffering+itself.;%E2%80%94+Paulo+Coelho%2C+The+Alchemist" />
